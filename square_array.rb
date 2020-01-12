@@ -6,7 +6,7 @@ def square_array(array)
   return new_array
 end
 
-def square_array(array)
+def squared_array(array)
   array.map do |number|
     number**2
   end
